@@ -41,7 +41,7 @@ app.use('/api', route);
 
 //routing testing method
 app.get('/', (req, res)=>{
-    res.send('HELLO');
+    res.send('foobar');
 });
 
 //bind app to listen the port
