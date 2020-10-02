@@ -1,4 +1,9 @@
-# Client
+# SAMPLE CONTACT LITS
+> This is a sample contact list created using MEAN stack
+>> Installation of dependencies:
+1.
+
+## Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
