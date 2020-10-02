@@ -1,4 +1,4 @@
-# SAMPLE CONTACT LITS
+# SAMPLE CONTACT LISTS
 > This is a sample contact list created using MEAN stack
 >> Installation of dependencies:
 1.
