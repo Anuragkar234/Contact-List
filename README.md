@@ -1,4 +1,4 @@
-# SAMPLE CONTACT LISTS
+# Sample Contact Lists WebApp
 > This is a sample contact list created using MEAN stack
 >> Installation of dependencies:
 1.
